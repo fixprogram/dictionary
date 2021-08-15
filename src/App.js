@@ -4,8 +4,8 @@ import { Container, withStyles, Switch } from "@material-ui/core";
 
 import "./App.css";
 import axios from "axios";
-import Header from "./components/Header";
-import Definitions from "./components/Definitions/Definitions";
+import Header from "./Components/Header";
+import Definitions from "./Components/Definitions/Definitions";
 import { grey } from "@material-ui/core/colors";
 
 function App() {
